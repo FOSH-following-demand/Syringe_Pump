@@ -7,7 +7,7 @@ Use this file to store your plan for the program. What are you going to do, in w
 | 1           | Create GitHub repo, familiarize with GitHub, first call with mentor, identify similar projects, identify parts to order  |Drew, All|
 | 2           | Order parts, second call, more research into similar projects | Drew, All |
 | 3           | Start Assembly, Start Code, third call | Drew, AJ, All |
-| 4           | Finish assembly, start testing and calibration | All |
+| 4           | Finish assembly and code, start testing and calibration | All |
 | 5           |                      |               |
 | 6           |                      |               |
 | 7           |                      |               |
