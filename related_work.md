@@ -8,6 +8,6 @@ Look below for a template. For a markdown cheatsheet, check [this repo](https://
 
 | Project name  | URL           | Active/Not active | Notes - relevance |
 | ------------- | ------------- | ----------------- | -------------- |
-| Large volume syringe pump extruder for desktop 3D printers | https://www.sciencedirect.com/science/article/pii/S2468067217300822#! | Not Active | Favorite method so far, accurate dispensing of the liquid, requires less hardware to be purchased, only one size of syringe, retraction enabled, Doesn't work separate from a 3D printer |
+| Large volume syringe pump extruder for desktop 3D printers | https://www.sciencedirect.com/science/article/pii/S2468067217300822#! | Active | Favorite method so far, accurate dispensing of the liquid, requires less hardware to be purchased, only one size of syringe, retraction enabled, Doesn't work separate from a 3D printer |
 | Open-Source Syringe Pump Library | https://www.academia.edu/8369549/Open-Source_Syringe_Pump_Library | Not Active | Can be used for any size syringe |
 | Open-source syringe pump | https://www.appropedia.org/Open-source_syringe_pump | Active | Using similar method as we plan to use, however we believe ours will have a greater accuracy at small volumes, must have a computer to control |
