@@ -21,9 +21,3 @@ We plan on using easy to use, off the shelf components, 3D printed parts, and ea
  We also plan on using open sourced firmware that is originally for 3D printers for the syringe pump. That makes it so that we don't have to reinvent the wheel, and up to five syringe pumps can be controlled from a single control board. This also allows for upgrades to the pump if the user desires, such as endstops and thermal regulation. The use of 3D printer firmware allows for the user to create a program in the easy to learn language of G-Code that could complete a series of tasks, without the user having to interact with the pump controls.
 
  In harmony with the second part of our project, a 3D printed housing will be produced to house all of the electronics.
-
-# Bioprinter plan
-
-The components from the syringe pump will then be incorporated into a readily available DIY 3D printer. This syringe pump will be able to integrated with the printer's code with minimal modifications.
-
-We will then work on creating a guide to help others start bioprinting and then troubleshooting their prints.
