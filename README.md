@@ -14,7 +14,7 @@ Week 1:
 
 Week 2:
 - Got parts in
-- Started assembly
+- Started assembly of syringe pump
 -
 
 Week 3:
@@ -23,8 +23,8 @@ Week 3:
 - Began troubleshooting
 
 Week 4:
--
--
+- Continued programming
+- began working on the bioprinter
 -
 
 Week 5:
