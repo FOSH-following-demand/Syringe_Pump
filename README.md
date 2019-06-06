@@ -8,10 +8,37 @@ The syringe pump that will be built will then be able to be integrated with almo
 # Progress
 
 Week 1:
+- Identified parts to order
+- Learned how to use Github (to an extent)
+-
+
 Week 2:
+- Got parts in
+- Started assembly
+-
+
 Week 3:
+- Finished assembly of syringe pump
+- Started Programing
+- Began troubleshooting
+
 Week 4:
+-
+-
+-
+
 Week 5:
+-
+-
+-
+
 Week 6:
+-
+-
+-
+
 Week 8:
-Also add a photo documentation of crucial steps
+-
+-
+-
+
