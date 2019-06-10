@@ -25,11 +25,11 @@ Week 3:
 Week 4:
 - Continued programming
 - began working on the bioprinter
--
+- Printed Control Box
 
 Week 5:
--
--
+- Calibration
+- Integration into the bioprinter
 -
 
 Week 6:
@@ -41,4 +41,3 @@ Week 8:
 -
 -
 -
-
