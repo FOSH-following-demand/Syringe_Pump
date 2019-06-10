@@ -26,7 +26,7 @@ For example we will use 9.8 grams as our average.
 
 Determine how many steps per millimeter the motor took to pump out 9.8 g of water. Multiply the number of steps (This can be found under Control > Motion > Steps/mm) by the number of milliliters that were supposed to be extruded.
 
-  [Steps/mm] x 10 = Steps taken
+  [Steps/mm] x 10 mL = Steps taken
 
 Then we will use the number of steps taken to determine the new number of steps needed.
 
