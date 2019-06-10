@@ -4,10 +4,10 @@ While general values for the number of steps per millimeter will give you decent
 
 # Supplies Needed
 
-Scale
-Water Container
-Needle or Pipette Tip
-Tubing
+-Scale
+-Water Container
+-Needle or Pipette Tip
+-Tubing
 
 # Steps
 
