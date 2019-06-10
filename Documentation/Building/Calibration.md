@@ -1,15 +1,15 @@
-#Calibration
+# Calibration
 
 While general values for the number of steps per millimeter will give you decent accuracy, it is necessary to calibrate and change the steps per millimeter for the best accuracy. There are many online guides for calibrating the steps/mm for 3D printers, such as this one found here at [All3DP] (https://all3dp.com/2/extruder-calibration-6-easy-steps-2/). However, we will have to change a few things to calibrate the syringe pump, since it is a little different from a 3D printer.
 
-#Supplies Needed
+# Supplies Needed
 
 | Scale |
 | Water Container |
 | Needle or Pipette Tip |
 | Tubing |
 
-#Steps
+# Steps
 
 1- Plug in syringe pump
 2- Fill syringe with distilled water
