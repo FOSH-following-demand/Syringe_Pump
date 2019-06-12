@@ -30,7 +30,7 @@ Week 4:
 Week 5:
 - Calibration
 - Integration into the bioprinter
--
+- Code Tweaks
 
 Week 6:
 -
