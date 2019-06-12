@@ -12,17 +12,17 @@ While general values for the number of steps per millimeter will give you decent
 
 # Steps
 
-1- Plug in syringe pump
-2- Fill syringe with distilled water
-3- Attach tubing to the pump with a needle/pipette tip on the other end of the tubing
+1. Plug in syringe pump
+2. Fill syringe with distilled water
+3. Attach tubing to the pump with a needle/pipette tip on the other end of the tubing
 <p align="center">
 <img src="https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Photos/IMG_6247.JPG" width="300"/>
 <h1 align="center">Taking a closer look on how microbes move!</h1>
-4- Prime the pump by pumping water till it starts to drip out of the needle
-5- Place water container on the scale and tare the scale
-6- Pump out 5 mL of water into the container and record the weight
-7- Tare the scale again and repeat step 6 five more times
-8- Take an average of all six measurements
+4. Prime the pump by pumping water till it starts to drip out of the needle
+5. Place water container on the scale and tare the scale
+6. Pump out 5 mL of water into the container and record the weight
+7. Tare the scale again and repeat step 6 five more times
+8. Take an average of all six measurements
 
 The density of pure water is 1 gram per cubic centimeter (g/cm^3). Since 1 mL is one cubic centimeter, we can calculate exactly how much water was pumped out each time and adjust accordingly.
 
