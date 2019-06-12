@@ -16,13 +16,13 @@ While general values for the number of steps per millimeter will give you decent
 3- Attach tubing to the pump with a needle/pipette tip on the other end of the tubing
 4- Prime the pump by pumping water till it starts to drip out of the needle
 5- Place water container on the scale and tare the scale
-6- Pump out 10 mL of water into the container and record the weight
+6- Pump out 5 mL of water into the container and record the weight
 7- Tare the scale again and repeat step 6 five more times
 8- Take an average of all six measurements
 
 The density of pure water is 1 gram per cubic centimeter (g/cm^3). Since 1 mL is one cubic centimeter, we can calculate exactly how much water was pumped out each time and adjust accordingly.
 
-For example we will use 9.8 grams as our average.
+For example we will use 4.8 grams as our average.
 
 Determine how many steps per millimeter the motor took to pump out 9.8 g of water. Multiply the number of steps (This can be found under Control > Motion > Steps/mm) by the number of milliliters that were supposed to be extruded.
 
@@ -39,4 +39,4 @@ The combined equation is:
 The new steps/mm value can then be changed by following the same path, and then twisting the control knob until the desired value is set. It can also be changed by changing the appropriate value in the firmware.  
  NOTE: If the new steps/mm value is not saved by going Control > Store Settings the new steps/mm value will have to be entered every time that the pump is turned on.
 
-It may be necessary to perform this calibration multiple times to ensure that the calibration is correct.
+It may be necessary to perform this calibration multiple times to ensure that the calibration is correct. It is also advisable to perform the calibration for all three main volumes (5, 1, 0.5 mL) and then averaging the steps/mm value. This is because the steps/mm required often increase as smaller volumes are extruded. 
