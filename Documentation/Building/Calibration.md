@@ -6,6 +6,7 @@ While general values for the number of steps per millimeter will give you decent
 
 -Scale
 -Water Container
+-Distilled Water
 -Needle or Pipette Tip
 -Tubing
 
@@ -39,4 +40,4 @@ The combined equation is:
 The new steps/mm value can then be changed by following the same path, and then twisting the control knob until the desired value is set. It can also be changed by changing the appropriate value in the firmware.  
  NOTE: If the new steps/mm value is not saved by going Control > Store Settings the new steps/mm value will have to be entered every time that the pump is turned on.
 
-It may be necessary to perform this calibration multiple times to ensure that the calibration is correct. It is also advisable to perform the calibration for all three main volumes (5, 1, 0.5 mL) and then averaging the steps/mm value. This is because the steps/mm required often increase as smaller volumes are extruded. 
+It may be necessary to perform this calibration multiple times to ensure that the calibration is correct. It is also advisable to perform the calibration for all three main volumes (5, 1, 0.5 mL) and then averaging the steps/mm value. This is because the steps/mm required often increase as smaller volumes are extruded.

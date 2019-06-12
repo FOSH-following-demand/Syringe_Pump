@@ -1,5 +1,1 @@
-### use this document to outline the software used (pre made libraries, custom user interfaces and analysis code).
-
-make sure there is a clear explanation how each software module/library/piece interacts with each other and with hardware.
-
-More folders can be added to this folder, as necessary.
+The software for this pump is based on the open source firmware for 3D printers. The firmware we used is called Marlin, and can be found here http://marlinfw.org/. We used version 1.1 in this build, and made modifications to allow the firmware to best serve its purpose in this syringe pump. 
