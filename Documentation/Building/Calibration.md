@@ -4,17 +4,20 @@ While general values for the number of steps per millimeter will give you decent
 
 # Supplies Needed
 
--Scale
--Water Container
--Distilled Water
--Needle or Pipette Tip
--Tubing
+- Scale
+- Water Container
+- Distilled Water
+- Needle or Pipette Tip
+- Tubing
 
 # Steps
 
 1- Plug in syringe pump
 2- Fill syringe with distilled water
 3- Attach tubing to the pump with a needle/pipette tip on the other end of the tubing
+<p align="center">
+<img src="https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Photos/IMG_6247.JPG" width="300"/>
+<h1 align="center">Taking a closer look on how microbes move!</h1>
 4- Prime the pump by pumping water till it starts to drip out of the needle
 5- Place water container on the scale and tare the scale
 6- Pump out 5 mL of water into the container and record the weight
