@@ -16,7 +16,7 @@ While general values for the number of steps per millimeter will give you decent
 2. Fill syringe with distilled water
 3. Attach tubing to the pump with a needle/pipette tip on the other end of the tubing
 <p align="left">
-<img src="https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Photos/IMG_6247.JPG" width="150"/>
+<img src="https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Photos/IMG_6247.JPG" width="200"/>
 <h6 align="left">Attaching a pipette tip for calibration</h6>
 
 4. Prime the pump by pumping water till it starts to drip out of the needle
