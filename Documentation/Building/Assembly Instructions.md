@@ -1,7 +1,7 @@
 # Steps
 
-1. Purchase all of the parts from the [Electrical bill of materials](Electrical_BOM.csv) and the [Mechanical bill of materials](Hardware/Bill_of_Materials/Mechanical_BOM.csv)
-2. 3D print all the necessary [parts](Hardware/Frame/3D_Printed_Parts)
+1. Purchase all of the parts from the [Electrical bill of materials](https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Hardware/Bill_of_Materials/Electrical_BOM.csv) and the [Mechanical bill of materials](https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Hardware/Bill_of_Materials/Mechanical_BOM.csv)
+2. 3D print all the necessary [parts](https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Hardware/Frame/3D_Printed_Parts/3D_Printed_Parts.csv)
 3. Assemble the syringe pump body by following the directions found [here](https://www.sciencedirect.com/science/article/pii/S2468067217300822#!)
 4. Remove the control knob from the Smart Display
 
@@ -57,6 +57,6 @@
 13. Plug the power supply in and ensure that everything turns on and that the stepper motor rotates
 14. Close the case
 15. Connect the computer cable to the port on the back of the case, and connect the USB to your computer.
-16. Using the [Arduino IDE](https://www.arduino.cc/en/Main/Software) upload the [firmware](software/MCU/Firmware)
-17. [Calibrate](Documentation/Building/Calibration.md) your syringe pump
+16. Using the [Arduino IDE](https://www.arduino.cc/en/Main/Software) upload the [firmware](https://github.com/FOSH-following-demand/Syringe_Pump/tree/master/software/MCU/Firmware/Syringe_Pump)
+17. [Calibrate](https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Documentation/Building/Calibration.md) your syringe pump
 18. Do awesome science!!!
