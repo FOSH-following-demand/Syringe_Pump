@@ -9,17 +9,17 @@
 
   <p align="center">
   <img src="https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Photos/IMG_6279.jpg" width="500"/>
-  <h6 align="left">MKS-Base in the case</h6>
+  <h6 align="center">MKS-Base in the case</h6>
   <p align="center">
   <img src="https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Photos/IMG_6280.jpg" width="500"/>
-  <h6 align="left">Fasten the screen to the case</h6>
+  <h6 align="center">Fasten the screen to the case</h6>
 
 6. Place syringe pump body on the top of the case. Put two M3 X 45 screws through the two holes by the bearing and feed them through the last slot on the case. Attach with washers and M3 nuts. Note: I did not have any M3 nuts on hand, so I improvised with some larger nuts to hold mine in place.
 7. Drill two holes with the 7/64th drill bit towards the front of the pump body, and drill through the pump and the case. Push two M3 X 45 screws in and fasten with M3 nuts and washers. Note: If you drill too close to the edge of the case, you will be unable to put a nut and washer on that screw.
 
 <p align="center">
 <img src="https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Photos/IMG_6287.JPG" width="500"/>
-<h6 align="left">Screws drilled and attached through the pump body</h6>
+<h6 align="center">Screws drilled and attached through the pump body</h6>
 <p align="center">
 <img src="https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Photos/IMG_6281%20(1).JPG" width="500"/>
-<h6 align="left">Inside of case, where the body is attached to the electronics case</h6>
+<h6 align="center">Inside of case, where the body is attached to the electronics case</h6>
