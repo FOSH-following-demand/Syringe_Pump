@@ -19,4 +19,4 @@
 <img src="https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Photos/IMG_6287.JPG" width="500"/>
 
 <p align="center">
-<img src="https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Photos/IMG_6281(1).JPG" width="500"/>
+<img src="https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Photos/IMG_6281%20(1).JPG" width="500"/>
