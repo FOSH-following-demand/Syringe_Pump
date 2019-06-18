@@ -11,6 +11,6 @@ After you have uploaded the firmware you must initialize EEPROM for the changes 
 Using the pump is very simple. The pump can push out volumes in three different step sizes: 5mL, 1mL or 0.5mL at a time.
 1. Press the control knob to access the menu
 2. Go to Prepare > Pump > Pump E0
-  1. All of the other options under pump are for the other ports on the board. These can be used to control multiple syringe pumps from one control unit. The name of the option corresponds with the name of the port that subsequent pumps would be connected to
+  2. All of the other options under pump are for the other ports on the board. These can be used to control multiple syringe pumps from one control unit. The name of the option corresponds with the name of the port that subsequent pumps would be connected to
 3. Select the volume size you would like to pump
 4. Turn the knob clockwise to pump out liquid and turn it counterclockwise to suck in liquid.
