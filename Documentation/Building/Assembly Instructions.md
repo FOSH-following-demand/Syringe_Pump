@@ -8,15 +8,15 @@
 5. If the power supply has an extendable plug, attach it to the board and feed the wires through the power port
 
   <p align="center">
-  <img src="https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Photos/IMG_6279.jpg" width="700"/>
+  <img src="https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Photos/IMG_6279.jpg" width="500"/>
   <p align="center">
-  <img src="https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Photos/IMG_6280.jpg" width="700"/>
+  <img src="https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Photos/IMG_6280.jpg" width="500"/>
 
 6. Place syringe pump body on the top of the case. Put two M3 X 45 screws through the two holes by the bearing and feed them through the last slot on the case. Attach with washers and M3 nuts. Note: I did not have any M3 nuts on hand, so I improvised with some larger nuts to hold mine in place.
 7. Drill two holes with the 7/64th drill bit towards the front of the pump body, and drill through the pump and the case. Push two M3 X 45 screws in and fasten with M3 nuts and washers. Note: If you drill too close to the edge of the case, you will be unable to put a nut and washer on that screw.
 
 <p align="center">
-<img src="https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Photos/IMG_6287.JPG" width="700"/>
+<img src="https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Photos/IMG_6287.JPG" width="500"/>
 
 <p align="center">
-<img src="https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Photos/IMG_6281(1).JPG" width="700"/>
+<img src="https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Photos/IMG_6281(1).JPG" width="500"/>
