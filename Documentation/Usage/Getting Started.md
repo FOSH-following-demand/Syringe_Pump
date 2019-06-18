@@ -1,12 +1,12 @@
 # Getting Started
 
-# Initialize EEPROM
+### Initialize EEPROM
 After you have uploaded the firmware you must initialize EEPROM for the changes to take effect. Do this after any firmware is uploaded from the computer to the pump
 1. Plug in your syringe pump
 2. Press the control knob to access the menu
 3. Go to Control > Initialize EEPROM > Initialize EEPROM. You should hear a beep
 
-# Using the pump
+### Using the pump
 
 Using the pump is very simple. The pump can push out volumes in three different step sizes: 5mL, 1mL or 0.5mL at a time.
 1. Press the control knob to access the menu
