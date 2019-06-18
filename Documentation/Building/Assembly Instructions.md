@@ -10,18 +10,18 @@
 <h6 align="center">Removed control knob</h6>
 
 5. Attach the MKS-Base v1.6 and the Smart Display to the controller cabinet using M3 X 8 screws
-  -Note: Depending on the tolerances and nuances of every 3D printer, and different part manufacturers, the fit of the MKS-Base and Smart Display might be a little off. Only two screws are necessary to hold the parts in place, and some of the cabinet may need to be shaved down with a razor blade for the screen to fit.
+  -Note: Depending on the tolerances and nuances of every 3D printer, and different part manufacturers, the fit of the MKS-Base and Smart Display might be a little off. Only two screws are necessary to hold the parts in place, and some of the screen hole may need to be shaved down with a razor blade for the screen to fit.
 6. Replace the control knob
 
 <p align="center">
 <img src="https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Photos/IMG_6284.jpg" width="500"/>
 <h6 align="center">Replaced control knob</h6>
 
-7. If the power supply has an extendable plug, attach it to the board and feed the wires through the power port
+7. If the power supply has an extendable plug, attach it to the board and feed the wires through the power port, otherwise cut off the end of the power supply, strip the wires, and attach the exposed leads to the board
 
   <p align="center">
   <img src="https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Photos/IMG_6279.jpg" width="500"/>
-  <h6 align="center">MKS-Base in the case</h6>
+  <h6 align="center">MKS-Base in the case with power supply attached</h6>
   <p align="center">
   <img src="https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Photos/IMG_6280.jpg" width="500"/>
   <h6 align="center">Fasten the screen to the case</h6>
@@ -35,3 +35,21 @@
 <p align="center">
 <img src="https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Photos/IMG_6281%20(1).JPG" width="500"/>
 <h6 align="center">Inside of case, where the body is attached to the electronics case</h6>
+
+10. Plug the screen cables in and plug the stepper motor cable in to the E0 port as show in the picture
+
+<p align="center">
+<img src="https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Photos/IMG_6282.jpg" width="500"/>
+<h6 align="center">Cables plugged into the MKS-Base</h6>
+
+11. Plug the other end of the screen cable into the Smart Display. Ensure that the EXP1 and EXP2 ports on the display are connected to the same ports on the board
+
+<p align="center">
+<img src="https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Photos/IMG_6285.jpg" width="500"/>
+<h6 align="center">Cables plugged into the Smart Display</h6>
+
+12. Feed the stepper motor cable through one of the slots in the back of the case, and connect it to the stepper motor on the pump body
+
+<p align="center">
+<img src="https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Photos/IMG_6286.jpg" width="500"/>
+<h6 align="center">Stepper motor cable connected</h6>
