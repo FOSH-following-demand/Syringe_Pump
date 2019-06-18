@@ -2,4 +2,17 @@
 
 1. Purchase all of the parts from the [Electrical bill of materials](Hardware/Bill_of_Materials/Electrical_BOM.csv) and the [Mechanical bill of materials](Hardware/Bill_of_Materials/Mechanical_BOM.csv)
 2. 3D print all the necessary [parts](Hardware/Frame/3D_Printed_Parts)
-3. Assemble the syringe pump by following the directions found [here](https://www.sciencedirect.com/science/article/pii/S2468067217300822#!)
+3. Assemble the syringe pump body by following the directions found [here](https://www.sciencedirect.com/science/article/pii/S2468067217300822#!)
+4. Attach the MKS-Base v1.6 and the Smart Display to the controller cabinet using M3 X 8 screws
+  -Note: Depending on the tolerances and nuances of every 3D printer, and different part manufacturers, the fit of the MKS-Base and Smart Display might be a little off. Only two screws are necessary to hold the parts in place, and some of the cabinet may need to be shaved down with a razor blade for the screen to fit.
+5. If the power supply has an extendable plug, attach it to the board and feed the wires through the power port    
+  <p align="center">
+  <img src="https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Photos/IMG_6279.JPG" width="700"/>
+  <p align="center">
+  <img src="https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Photos/IMG_6281.JPG" width="700"/>
+6. Place syringe pump body on the top of the case. Put two M3 X 45 screws through the two holes by the bearing and feed them through the last slot on the case. Attach with washers and M3 nuts. Note: I did not have any M3 nuts on hand, so I improvised with some larger nuts to hold mine in place.
+7. Drill two holes with the 7/64th drill bit towards the front of the pump body, and drill through the pump and the case. Push two M3 X 45 screws in and fasten with M3 nuts and washers. Note: If you drill too close to the edge of the case, you will be unable to put a nut and washer on that screw.
+<p align="center">
+<img src="https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Photos/IMG_6287.JPG" width="700"/>
+<p align="center">
+<img src="https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Photos/IMG_6281(1).JPG" width="700"/>
