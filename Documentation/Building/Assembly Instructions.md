@@ -53,3 +53,10 @@
 <p align="center">
 <img src="https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Photos/IMG_6286.jpg" width="500"/>
 <h6 align="center">Stepper motor cable connected</h6>
+
+13. Plug the power supply in and ensure that everything turns on and that the stepper motor rotates
+14. Close the case
+15. Connect the computer cable to the port on the back of the case, and connect the USB to your computer.
+16. Using the [Arduino IDE](https://www.arduino.cc/en/Main/Software) upload the [firmware](software/MCU/Firmware)
+17. [Calibrate](Documentation/Building/Calibration.md) your syringe pump
+18. Do awesome science!!!
