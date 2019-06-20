@@ -36,7 +36,7 @@ Week 5:
 - Code Tweaks
 
 Week 6:
--
+- Started Bioprinting
 -
 -
 
