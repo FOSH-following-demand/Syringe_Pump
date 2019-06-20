@@ -2,7 +2,7 @@
 
 1. Purchase all of the parts from the [Electrical bill of materials](https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Hardware/Bill_of_Materials/Electrical_BOM.csv) and the [Mechanical bill of materials](https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Hardware/Bill_of_Materials/Mechanical_BOM.csv)
 2. 3D print all the necessary [parts](https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Hardware/Frame/3D_Printed_Parts/3D_Printed_Parts.csv)
-3. Assemble the syringe pump body by following the directions found [here](https://www.sciencedirect.com/science/article/pii/S2468067217300822#!)
+3. Assemble the syringe pump body by following the directions found [here](https://www.sciencedirect.com/science/article/pii/S2468067217300822#!). Please refer to [troubleshooting](Troubleshooting.md) for any problems that you encounter as we discovered a few quirks with the assembly described in the link. 
 4. Remove the control knob from the Smart Display
 
 <p align="center">
