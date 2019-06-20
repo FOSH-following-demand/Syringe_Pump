@@ -2,7 +2,7 @@
 
 1. Purchase all of the parts from the [Electrical bill of materials](https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Hardware/Bill_of_Materials/Electrical_BOM.csv) and the [Mechanical bill of materials](https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Hardware/Bill_of_Materials/Mechanical_BOM.csv)
 2. 3D print all the necessary [parts](https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Hardware/Frame/3D_Printed_Parts/3D_Printed_Parts.csv)
-3. Assemble the syringe pump body by following the directions found [here](https://www.sciencedirect.com/science/article/pii/S2468067217300822#!). Please refer to [troubleshooting](Troubleshooting.md) for any problems that you encounter as we discovered a few quirks with the assembly described in the link. 
+3. Assemble the syringe pump body by following the directions found [here](https://www.sciencedirect.com/science/article/pii/S2468067217300822#!). Please refer to [troubleshooting](Troubleshooting.md) for any problems that you encounter as we discovered a few quirks with the assembly described in the link.
 4. Remove the control knob from the Smart Display
 
 <p align="center">
@@ -59,5 +59,5 @@
 15. Connect the computer cable to the port on the back of the case, and connect the USB to your computer.
 16. Using the [Arduino IDE](https://www.arduino.cc/en/Main/Software) upload the [firmware](https://github.com/FOSH-following-demand/Syringe_Pump/tree/master/software/MCU/Firmware/Syringe_Pump) by following these [instructions](https://www.arduino.cc/en/Guide/ArduinoMega2560#toc2)
 17. Follow the [instructions](https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Documentation/Usage/Getting%20Started) to start using your syringe pump
-18. [Calibrate](https://github.com/FOSH-following-demand/Syringe_Pump/blob/master/Documentation/Building/Calibration.md) your syringe pump
+18. [Calibrate](Calibration.md) your syringe pump
 19. Do awesome science!!!
