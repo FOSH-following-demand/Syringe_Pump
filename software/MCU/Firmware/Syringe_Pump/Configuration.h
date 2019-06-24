@@ -890,7 +890,7 @@
  */
 #define DEFAULT_XJERK                  0.1
 #define DEFAULT_YJERK                  0.1
-#define DEFAULT_ZJERK                  0.1
+#define DEFAULT_ZJERK                  0.7
 #define DEFAULT_EJERK                  0.1
 
 //===========================================================================
