@@ -7,7 +7,7 @@ We are a team of 4 people from Utah, USA. We creating a open source DIY syringe 
 
 The syringe pump that will be built will then be able to be integrated with almost any commonly available desktop 3D printer to create a [bioprinter](https://github.com/FOSH-following-demand/Bioprinter).
 
-I want to give credit to Kira Puscha, Thomas J.Hinton, and Adam W.Feinberg at Carnegie for their work on the [Large volume syringe pump extruder for desktop 3D printers](https://www.sciencedirect.com/science/article/pii/S2468067217300822#!) that served for the basis and inspiration for this project
+We would like to give credit to Kira Puscha, Thomas J.Hinton, and Adam W.Feinberg at Carnegie for their work on the [Large volume syringe pump extruder for desktop 3D printers](https://www.sciencedirect.com/science/article/pii/S2468067217300822#!) that served for the basis and inspiration for this project
 
 ## Getting Started
 
