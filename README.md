@@ -5,12 +5,15 @@
 
 We are a team of 4 people from Utah, USA. We creating a open source DIY syringe pump from commonly available and 3D printed parts that allows for high accuracy and repeatability. We also want to make this project as simple as possible so that no specialized skills are required.
 
-The syringe pump that will be built will then be able to be integrated with almost any commonly available DIY 3D printer to create a bioprinter.
+The syringe pump that will be built will then be able to be integrated with almost any commonly available desktop 3D printer to create a [bioprinter](https://github.com/FOSH-following-demand/Bioprinter).
+
+I want to give credit to Kira Puscha, Thomas J.Hinton, and Adam W.Feinberg at Carnegie for their work on the [Large volume syringe pump extruder for desktop 3D printers](https://www.sciencedirect.com/science/article/pii/S2468067217300822#!) that served for the basis and inspiration for this project
 
 ## Getting Started
 
 Follow these links to learn about this project, and to get started building your own syringe pump!
-- [Parts to purchase](Bill_of_Materialss)
+- [Large Volume Syringe Pump Extruder](https://www.sciencedirect.com/science/article/pii/S2468067217300822#!)
+- [Parts to purchase](Bill_of_Materials)
 - [Parts to 3D print](3D_Printed_Parts.csv)
 - [Assembly](Assembly_Instructions.md)
 - [Troubleshooting](Troubleshooting.md)
