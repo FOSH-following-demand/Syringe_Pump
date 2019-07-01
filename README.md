@@ -55,6 +55,7 @@ Week 6:
 Week 7:
 - Got some advice from Advanced BioMatrix
 - Ordered a different gelatin
+- Researched different "bioinks"
 - Tried to print with different materials (agarose, calcium phosphate, frosting), but none worked
 
 Week 8:
