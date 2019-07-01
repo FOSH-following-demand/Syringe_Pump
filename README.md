@@ -9,7 +9,7 @@ The syringe pump that will be built will then be able to be integrated with almo
 
 We would like to give credit to Kira Puscha, Thomas J.Hinton, and Adam W.Feinberg at Carnegie for their work on the [Large volume syringe pump extruder for desktop 3D printers](https://www.sciencedirect.com/science/article/pii/S2468067217300822#!) that served for the basis and inspiration for this project
 
-If you have any questions get in contact with us via email at drewcliffporter@gmail.com
+If you have any questions or get involved, get in contact with us via email at drewcliffporter@gmail.com
 
 ## Getting Started
 
