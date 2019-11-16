@@ -72,7 +72,7 @@ contributors:                              # recommended
 
 #development-stage: [value]                 # text
 
-#made: [true/false]                         # boolean - true or false
+made: true                                  # boolean - true or false
 
 #made-independently: [true/false]           # boolean - true or false
 
