@@ -18,7 +18,7 @@ manifest-author:
   affiliation: University of Sussex        # text
   email: a.maia-chagas@sussex.ac.uk        # email address
 
-manifest-language: EN-UK
+manifest-language: en-UK
 
 #documentation-language: [language-code]-[region]
 
@@ -36,11 +36,10 @@ manifest-language: EN-UK
 
 # Properties
 
-title: Syringe Pump                # required | text | A title to identify the thing
+title: Syringe Pump
 
 description: |                             # required | paragraph
   We created a large volume open source DIY syringe pump from commonly available and 3D printed parts that allows for high accuracy and repeatability. We also want to make this project as simple as possible so that no specialized skills are required.
-
 #intended-use: |                            # recommended | Paragraph
 #  [value]
 
@@ -66,7 +65,7 @@ contributors:                              # recommended
 #    affiliation: [value]                   # text
     email: drewcliffporter@gmail.com   # email address
 
-image: https://raw.githubusercontent.com/FOSH-following-demand/Syringe_Pump/master/Photos/IMG_6256.JPG                             # recommended | absolute or relative path
+image: Photos/IMG_6256.JPG
 
 #version: [value]                           # text
 
@@ -104,7 +103,7 @@ made: true                                  # boolean - true or false
 
 license:                                   # At least one license is required | The format should be an SPDX identifier. See https://spdx.org/licenses/hardware: [value] # recommended | The license under which the hardware is released
   #hardware: [value]                        # recommended | The license under which the documentation is released
-  documentation: GNU GPL v3.0                       # recommended | The license under which the documentation is released
+  documentation: GPL-3.0-only                       # recommended | The license under which the documentation is released
   #software: [value]                        # recommended where software is used | The license under which the software is released
 
 #licensor:
